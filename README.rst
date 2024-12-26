@@ -21,7 +21,7 @@ or
 
 to standardize your addresses. (Note: usaddress-scourgify does not make any attempts at address validation.)
 
-Both functions, and the class init, take an address string, or a dict-like object, and return an address dict with all field values in uppercase format mapped to the keys address_line_1, address_line_2, city, state, postal_code... code-block:: python
+Both functions, and the class init, take an address string, or a dict-like object, and return an address dict with all field values in uppercase format mapped to the keys address_line_1, address_line_2, city, state, postal_code...
 
 
 .. code-block:: python
